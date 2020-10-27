@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T18:50:18.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PjAdV_psT4oDFehrXlR6" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T18:53:11.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Smip0HN8ZDaDSv6cWNRC" version="13.8.5" type="github">
   <diagram id="dYi3LoX2D-u_dekNeybU" name="Page-1">
-    <mxGraphModel dx="677" dy="3582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="4346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,18 @@
         </mxCell>
         <mxCell id="cHnSCkkfZHPOHj3AAeh6-27" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Instant Delivery &lt;br&gt;of online products!&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="-870" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cHnSCkkfZHPOHj3AAeh6-28" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Current Sales!&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1200" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cHnSCkkfZHPOHj3AAeh6-30" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1159" width="250" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="cHnSCkkfZHPOHj3AAeh6-31" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;More Info!&lt;/font&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-1151" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cHnSCkkfZHPOHj3AAeh6-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-16/20/mouse_pointer-128.png;fillColor=#FFFFFF;gradientColor=none;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1154.5" width="47" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
